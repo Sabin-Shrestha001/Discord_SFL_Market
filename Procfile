@@ -1,0 +1,1 @@
+worker: python sfl_discord_bot.py
